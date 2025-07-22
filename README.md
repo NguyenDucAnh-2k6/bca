@@ -41,5 +41,5 @@ Input <br />
 10 11 <br />
 11 12 <br />
 
-Output
+Output <br />
 3
